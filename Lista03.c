@@ -133,7 +133,16 @@ void Questao15()
 {
 }
 void Questao16()
-{
+{/*Uma escola vai distribuir kits de material escolar para seus alunos. Cada caixa enviada pelo fornecedor contém 24 kits.
+
+Faça um programa em C que leia a quantidade de alunos matriculados e informe quantas caixas completas a escola precisará encomendar para atender a todos os alunos, garantindo que ninguém fique sem kit.
+
+No quadro abaixo há três exemplos:
+
+Entrada	Saída
+Informe o número de alunos: 50	3 caixas
+Informe o número de alunos: 72	3 caixas
+Informe o número de alunos: 25	2 caixas*/
 }
 
 int main()
@@ -199,4 +208,5 @@ int main()
 
     } while (quest != 0);
     return 0;
+
 }
